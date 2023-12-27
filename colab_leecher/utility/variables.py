@@ -11,7 +11,7 @@ class BOT:
     TASK = None
     class Setting:
         stream_upload = "Media"
-        convert_video = "Yes"
+        convert_video = "No"
         convert_quality = "High"
         caption = "Monospace"
         prefix = ""
